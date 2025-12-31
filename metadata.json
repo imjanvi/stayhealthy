@@ -1,0 +1,9 @@
+
+{
+  "name": "StayHealthy - Digital Healthcare for Remote Areas",
+  "description": "A comprehensive healthcare platform providing remote medical consultations, doctor listings, appointment management, and patient record access with a clean black-and-white aesthetic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
