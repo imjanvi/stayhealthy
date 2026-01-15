@@ -1,20 +1,39 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🥗 StayHealthy – Wellness & Lifestyle Companion
 
-# Run and deploy your AI Studio app
+**StayHealthy** is a health and wellness web application designed to encourage mindful eating, healthy daily habits, and sustainable lifestyle choices.  
+The app focuses on simplicity and awareness, helping users stay consistent with healthy routines rather than following extreme or unrealistic plans.
 
-This contains everything you need to run your app locally.
+This project reflects a practical approach to health tech, combining user-friendly design with real-life wellness needs.
 
-View your app in AI Studio: https://ai.studio/apps/temp/1
+---
 
-## Run Locally
+## ✨ Features
 
-**Prerequisites:**  Node.js
+- 🥦 **Healthy Lifestyle Awareness**  
+  Encourages balanced eating and mindful daily habits
+
+- 📊 **Daily Habit Tracking**  
+  Track consistency in food, water intake, and wellness routines
+
+- 🌿 **Wellness-First Design**  
+  Focused on long-term health rather than short-term results
+
+- 📱 **Responsive Interface**  
+  Smooth experience across desktop and mobile devices
+
+- 🧘 **Beginner-Friendly UX**  
+  Simple flows designed for everyday users
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js  
+- **Styling:** CSS / Tailwind CSS  
+- **Build Tool:** Vite  
+- **Version Control:** Git & GitHub  
+
+---
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+
